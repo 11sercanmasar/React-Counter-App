@@ -6,10 +6,15 @@
 - Open new terminal from your Code Editor,
 - Via cd find your the File 
 ```
-npm i express
-npm i nodemon
-nodemon index.js
+npm install
+npm start
+
 ```
+# İnstalling
+
+To install all dependencies required for the project, clone or download the source cd into the project root and from your terminal run:
+
+``npm install ``
 
 # Technologies That Used
 |:point_down: Using Technologies|
